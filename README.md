@@ -12,7 +12,6 @@ El siguiente codigo se ejecuta sobre un entorno virtual de python que posee los 
 * numpy 
 * matplotlib
 * requests
-* json
 
 Ademas la API requiere de una KEY que se obtiene registrandose en la pagina de "estadisticasbcra" link en debajo en las fuentes.
 
